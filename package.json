@@ -1,0 +1,27 @@
+{
+  "name": "node-watermark",
+  "version": "1.0.0",
+  "description": "watermark-creator-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfesen/Node-Watermark.git"
+  },
+  "keywords": [
+    "watermark",
+    "image",
+    "text"
+  ],
+  "author": "Alexander Fesenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfesen/Node-Watermark/issues"
+  },
+  "homepage": "https://github.com/alfesen/Node-Watermark#readme",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
